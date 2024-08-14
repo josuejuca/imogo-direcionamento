@@ -11,11 +11,18 @@ A rota principal (`/`) retorna uma mensagem com o sistema operacional do usuári
 
 ## Rota: `/proprietario`
 
+```
+https://app.imogo.com.br/proprietario
+```
+
 ### Descrição
 A rota `/proprietario` redireciona para a página da loja do proprietário.
 
 
 ## Rota: `/corretor`
+```
+https://app.imogo.com.br/corretor
+```
 
 ### Descrição
 A rota `/corretor` redireciona para a página da loja do corretor.
