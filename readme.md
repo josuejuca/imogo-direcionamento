@@ -20,6 +20,6 @@ A rota `/proprietario` redireciona para a página da loja do proprietário.
 ### Descrição
 A rota `/corretor` redireciona para a página da loja do corretor.
 
-
+```
 Este documento serve como referência para as rotas
 ```
